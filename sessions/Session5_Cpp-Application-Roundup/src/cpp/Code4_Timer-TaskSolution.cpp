@@ -25,7 +25,7 @@ int main() {
       }
       
       //print some nice finish lines
-      cout << "TIME IS OVER!" << endl;
+      cout << "TIME IS UP!" << endl; //over
       cout << " ------------- " << endl;
       cout << "restarting the app..." << endl<< endl<< endl;
     }
